@@ -1,0 +1,4 @@
+geometry_msgs/Pose location
+geometry_msgs/PoseArray clusters
+---
+geometry_msgs/PoseArray path

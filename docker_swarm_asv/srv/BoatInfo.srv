@@ -1,0 +1,6 @@
+geometry_msgs/Pose metacluster
+geometry_msgs/PoseArray clusters
+---
+int64 capacity
+int64 speed
+geometry_msgs/Pose location
